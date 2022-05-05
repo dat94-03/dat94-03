@@ -87,7 +87,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
   </a>
   <a href="contact:0332996144" target="top">
-    <img src="https://img.icons8.com/bubbles/50/000000/phone--v2.png" alt="email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/phone--v2.png" alt="phone" />
   </a>
 </div>
 
