@@ -6,7 +6,7 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="Python logo" title="Python" height="25" /></span> -->
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
@@ -97,7 +97,7 @@
 
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<div aline="center">
+<div align="center">
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=monokai&animation=default&layout=default&font=Redressed)
 </div>
 <!-- <a href="#" target="_blank">
