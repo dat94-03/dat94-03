@@ -78,7 +78,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="youtube" />
   </a> -->
   <a href="https://www.linkedin.com/in/ti%E1%BA%BFn-%C4%91%E1%BA%A1t-269711174/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" />
+    <img style='width:150px' src='/assets/tele.gif'  alt="linkedin" />
   </a>
   <!-- <a href="https://instagram.com/trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="instagram" />
