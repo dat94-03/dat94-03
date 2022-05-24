@@ -72,22 +72,22 @@
     <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="blog" />
   </a> -->
   <a href="https://www.facebook.com/dat.94.03" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="dat94-03-facebook" />
-  </a>
+    <img src="/assets/facebook copy.gif" alt="dat94-03-facebook" />
+  </a>git 
   <!-- <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="youtube" />
   </a> -->
   <a href="https://www.linkedin.com/in/ti%E1%BA%BFn-%C4%91%E1%BA%A1t-269711174/" target="blank">
-    <img style='width:150px' src='/assets/tele.gif'  alt="linkedin" />
+    <img style='width:150px' src='/assets/linkedin copy.gif'  alt="linkedin" />
   </a>
   <!-- <a href="https://instagram.com/trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="instagram" />
   </a> -->
   <a href="mailto:tiendat942003@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
+    <img src="/assets/gmail copy.gif" alt="email" />
   </a>
   <a href="contact:0332996144" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/phone--v2.png" alt="phone" />
+    <img src="/assets/tele copy.gif" alt="phone" />
   </a>
 </div>
 
