@@ -80,18 +80,21 @@
                 target="_blank">
                 <img src='/assets/linkedin.png' alt="linkedin" />
             </a>
-            <a style="text-decoration:none" href="contact:0332996144" target="_top">
+            <a style="text-decoration:none" href="contact:0332996144" target="_blank">
                 <img src="/assets/telegram.png" alt="phone" />
             </a>
         </div>
         <div align='center'>
-            <a style="text-decoration:none" href="https://www.instagram.com/dat_9403/" target="_top">
+         <a style="text-decoration:none" href="https://dat94-03.github.io/cv.tiendatdev/" target="_blank">
+                <img src="/assets/cv-logo.png" alt="myCV" />
+            </a>
+            <a style="text-decoration:none" href="https://www.instagram.com/dat_9403/" target="_blank">
                 <img src="/assets/instagram.png" alt="email" />
             </a>
             <a style="text-decoration:none" href="mailto:tiendat942003@gmail.com" target="_blank">
                 <img src="/assets/gmail.png" alt="email" />
             </a>
-        </div>
+        </div> 
         <br>
     </div>
 
