@@ -73,22 +73,22 @@
         </h2>
         <br>
         <div align="center" style="text-decoration:none">
-            <a style="text-decoration:none" href="https://www.facebook.com/dat.94.03" target="blank">
+            <a style="text-decoration:none" href="https://www.facebook.com/dat.94.03" target="_blank">
                 <img src="/assets/facebook.png" alt="dat94-03-facebook" />
             </a>
             <a style="text-decoration:none" href="https://www.linkedin.com/in/ti%E1%BA%BFn-%C4%91%E1%BA%A1t-269711174/"
-                target="blank">
+                target="_blank">
                 <img src='/assets/linkedin.png' alt="linkedin" />
             </a>
-            <a style="text-decoration:none" href="contact:0332996144" target="top">
+            <a style="text-decoration:none" href="contact:0332996144" target="_top">
                 <img src="/assets/telegram.png" alt="phone" />
             </a>
         </div>
         <div align='center'>
-            <a style="text-decoration:none" href="mailto:tiendat942003@gmail.com" target="top">
+            <a style="text-decoration:none" href="https://www.instagram.com/dat_9403/" target="_top">
                 <img src="/assets/instagram.png" alt="email" />
             </a>
-            <a style="text-decoration:none" href="mailto:tiendat942003@gmail.com" target="top">
+            <a style="text-decoration:none" href="mailto:tiendat942003@gmail.com" target="_blank">
                 <img src="/assets/gmail.png" alt="email" />
             </a>
         </div>
@@ -99,7 +99,7 @@
 <br>
         <div  align="center">
           <img
-            src="https://github-readme-quotes.herokuapp.com/quote?theme=monokai&animation=default&layout=default&font=Redressed"
+            src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=default"
           />
         </div>
 <!-- <a href="#" target="_blank">
