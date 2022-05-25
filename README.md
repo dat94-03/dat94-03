@@ -102,6 +102,3 @@
             src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=default"
           />
         </div>
-<!-- <a href="#" target="_blank">
-  <img src="svg/tiendat_quotes.svg" width="846" height="150" alt="trungquandev-official" />
-</a> -->
