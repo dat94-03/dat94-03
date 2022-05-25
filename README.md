@@ -64,34 +64,36 @@
 
 <br>
 
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
-  <!-- <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="blog" />
-  </a> -->
-  <a href="https://www.facebook.com/dat.94.03" target="blank">
-    <img src="/assets/facebook copy.gif" alt="dat94-03-facebook" />
-  </a>git 
-  <!-- <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="youtube" />
-  </a> -->
-  <a href="https://www.linkedin.com/in/ti%E1%BA%BFn-%C4%91%E1%BA%A1t-269711174/" target="blank">
-    <img style='width:150px' src='/assets/linkedin copy.gif'  alt="linkedin" />
-  </a>
-  <!-- <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="instagram" />
-  </a> -->
-  <a href="mailto:tiendat942003@gmail.com" target="top">
-    <img src="/assets/gmail copy.gif" alt="email" />
-  </a>
-  <a href="contact:0332996144" target="top">
-    <img src="/assets/tele copy.gif" alt="phone" />
-  </a>
-</div>
-
-<br>
+<div>
+        <br>
+        <h2 align="center">
+            <img src="/assets/hand3.png" alt="hand">
+            Where to find me
+            <img src="/assets/hand3.png" alt="hand">
+        </h2>
+        <br>
+        <div align="center" style="text-decoration:none">
+            <a style="text-decoration:none" href="https://www.facebook.com/dat.94.03" target="blank">
+                <img src="/assets/facebook.png" alt="dat94-03-facebook" />
+            </a>
+            <a style="text-decoration:none" href="https://www.linkedin.com/in/ti%E1%BA%BFn-%C4%91%E1%BA%A1t-269711174/"
+                target="blank">
+                <img src='/assets/linkedin.png' alt="linkedin" />
+            </a>
+            <a style="text-decoration:none" href="contact:0332996144" target="top">
+                <img src="/assets/telegram.png" alt="phone" />
+            </a>
+        </div>
+        <div align='center'>
+            <a style="text-decoration:none" href="mailto:tiendat942003@gmail.com" target="top">
+                <img src="/assets/instagram.png" alt="email" />
+            </a>
+            <a style="text-decoration:none" href="mailto:tiendat942003@gmail.com" target="top">
+                <img src="/assets/gmail.png" alt="email" />
+            </a>
+        </div>
+        <br>
+    </div>
 
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
