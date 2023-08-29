@@ -1,4 +1,4 @@
-<!-- Trungquandev -->
+
 <a href="#" target="_blank">
   <img src="svg/tiendat_profile.svg" width="1200px" alt="tiendatdev" />
 </a>
@@ -28,7 +28,6 @@
 &nbsp; -->
 <!-- <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp; -->
-<!--
 <!-- <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span> -->
 <!-- &nbsp; -->
 <!-- <span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
@@ -101,7 +100,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
         <div  align="center">
-          <img
-            src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=default"
-          />
+          [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
         </div>
