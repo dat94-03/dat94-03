@@ -1,4 +1,4 @@
-
+<h1 align="center">🖐Welcome to my Github page🖐</h1>
 <a href="#" target="_blank">
   <img src="svg/tiendat_profile.svg" width="1200px" alt="tiendatdev" />
 </a>
@@ -42,25 +42,51 @@ height="30" /></span>
 <br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+
 <br>
 <div align=center>
   <a href="#" title="dat94-03">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dat94-03&hide_progress=true&hide=c%23,powershell,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=141321&langs_count=8&layout=compact&border_color=D83A7C&hide_border=false" />
   </a>
   <a href="#" title="dat94-03">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=dat94-03&show_icons=true&theme=radical&border_color=D83A7C&hide_border=false" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=dat94-03&show_icons=true&theme=radical&border_color=D83A7C&hide_border=false&rank_icon=github" />
   </a>
 </div>
 
 <br>
-
+<h2 align="center">📌 Checkout my git repo 📌</h2>
+<br>
 <div>
-        <br>
+
+<a href="https://github.com/dat94-03/cv.tiendatdev">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dat94-03&repo=cv.tiendatdev&theme=radical" />
+</a>    
+<a href="https://github.com/dat94-03/dat94-03">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dat94-03&repo=dat94-03&theme=jolly" />
+</a> <a href="https://github.com/dat94-03/quiz-test-app">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dat94-03&repo=quiz-test-app&theme=maroongold" />
+</a> 
+</a> <a href="https://github.com/dat94-03/Snake-Game">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dat94-03&repo=Snake-Game&theme=merko
+" />
+</a>
+</a> <a href="https://github.com/dat94-03/CS221-Artificial-Intelligence-Principles-and-Techniques">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dat94-03&repo=
+CS221-Artificial-Intelligence-Principles-and-Techniques&theme=blue-green" />
+</a>
+</div>
         <h2 align="center">
             🔎Where to find me🔎  
         </h2>
         <br>
+<div>
+
+
         <div align="center" style="text-decoration:none">
             <a style="text-decoration:none" href="https://www.reddit.com/user/Dat9403" target="_blank">
                 <img src="/assets/reddit.png" alt="reddit" />
