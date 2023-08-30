@@ -23,6 +23,10 @@ height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TensorFlow-445069?logo=tensorflow&logoColor=ff6f00" alt="TensorFllow logo" title="JavaScript" height="30" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Matplotlib-445069?logo=matplotlib&logoColor=fff" alt="TensorFllow logo" title="JavaScript" height="30" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Seaborn-445069?logo=matplotlib&logoColor=fff" alt="TensorFllow logo" title="JavaScript" height="30" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/MySql-445069?logo=mysql&logoColor=F37726" alt="Node.js logo" title="Node.js" 
 height="30" /></span>
 &nbsp;
@@ -58,6 +62,10 @@ height="30" /></span>
 <br>
 <h2 align="center">📌 Checkout my git repo 📌</h2>
 <br>
+  <a href="https://github.com/dat94-03/Handwritten-digits-recognize">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dat94-03&repo=Handwritten-digits-recognize&theme=material-palenight" />
+</a>
 <a href="https://github.com/dat94-03/cv.tiendatdev">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dat94-03&repo=cv.tiendatdev&theme=radical" />
