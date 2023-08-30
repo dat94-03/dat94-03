@@ -54,7 +54,7 @@ height="30" /></span>
 </div>
 
 
-<div>
+<div align="center">
 <br>
 <h2 align="center">📌 Checkout my git repo 📌</h2>
 <br>
@@ -65,20 +65,20 @@ height="30" /></span>
 <a href="https://github.com/dat94-03/dat94-03">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dat94-03&repo=dat94-03&theme=jolly" />
-</a> <a href="https://github.com/dat94-03/quiz-test-app">
+</a> 
+  <a href="https://github.com/dat94-03/quiz-test-app">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dat94-03&repo=quiz-test-app&theme=maroongold" />
 </a> 
-</a> <a href="https://github.com/dat94-03/Snake-Game">
+  <a href="https://github.com/dat94-03/Snake-Game">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dat94-03&repo=Snake-Game&theme=merko
-" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dat94-03&repo=Snake-Game&theme=merko" />
 </a>
-</a> <a href="https://github.com/dat94-03/CS221-Artificial-Intelligence-Principles-and-Techniques">
+ <a href="https://github.com/dat94-03/CS221-Artificial-Intelligence-Principles-and-Techniques">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dat94-03&repo=
-CS221-Artificial-Intelligence-Principles-and-Techniques&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dat94-03&repo=CS221-Artificial-Intelligence-Principles-and-Techniques&theme=calm" />
 </a>
+
 </div>
 
 <div>
@@ -93,7 +93,7 @@ CS221-Artificial-Intelligence-Principles-and-Techniques&theme=blue-green" />
             </a>
             <a style="text-decoration:none" href="https://www.linkedin.com/in/ti%E1%BA%BFn-%C4%91%E1%BA%A1t-269711174/"
                 target="_blank">
-                <img src='/assets/linkedin.png' alt="linkedin" />
+                <img src='/assets/linkedin.png' alt="LinkedIn" />
             </a>
             <a style="text-decoration:none" href="contact:0332996144" target="_blank">
                 <img src="/assets/telegram.png" alt="contact:0332996144" />
