@@ -41,7 +41,7 @@ height="30" /></span>
 
 <br>
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2> 
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
 
 <br>
 <div align=center>
@@ -54,7 +54,7 @@ height="30" /></span>
 </div>
 
 
-<div align="center">
+<div>
 <br>
 <h2 align="center">📌 Checkout my git repo 📌</h2>
 <br>
@@ -75,12 +75,11 @@ height="30" /></span>
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dat94-03&repo=Snake-Game&theme=merko" />
 </a>
  <a href="https://github.com/dat94-03/CS221-Artificial-Intelligence-Principles-and-Techniques">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dat94-03&repo=CS221-Artificial-Intelligence-Principles-and-Techniques&theme=calm" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dat94-03&repo=
+CS221-Artificial-Intelligence-Principles-and-Techniques&theme=blue-green" />
 </a>
 
 </div>
-
 <div>
         <br>
         <h2 align="center">
@@ -93,7 +92,7 @@ height="30" /></span>
             </a>
             <a style="text-decoration:none" href="https://www.linkedin.com/in/ti%E1%BA%BFn-%C4%91%E1%BA%A1t-269711174/"
                 target="_blank">
-                <img src='/assets/linkedin.png' alt="LinkedIn" />
+                <img src='/assets/linkedin.png' alt="linkedin" />
             </a>
             <a style="text-decoration:none" href="contact:0332996144" target="_blank">
                 <img src="/assets/telegram.png" alt="contact:0332996144" />
@@ -114,7 +113,7 @@ height="30" /></span>
 <br>
         <div  align="center">
           <img
-            src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord"
+            src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord"
           />
         
 
