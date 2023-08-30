@@ -114,7 +114,7 @@ height="30" /></span>
 <br>
         <div  align="center">
           <img
-            src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord"
+            src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord"
           />
         
 
