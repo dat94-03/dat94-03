@@ -58,14 +58,12 @@ height="25" /></span>
 <div>
         <br>
         <h2 align="center">
-            <img src="/assets/hand3.png" alt="hand">
-            Where to find me
-            <img src="/assets/hand3.png" alt="hand">
+            🔎Where to find me🔎  
         </h2>
         <br>
         <div align="center" style="text-decoration:none">
-            <a style="text-decoration:none" href="https://www.facebook.com/dat.94.03" target="_blank">
-                <img src="/assets/facebook.png" alt="dat94-03-facebook" />
+            <a style="text-decoration:none" href="https://www.reddit.com/user/Dat9403" target="_blank">
+                <img src="/assets/reddit.png" alt="reddit" />
             </a>
             <a style="text-decoration:none" href="https://www.linkedin.com/in/ti%E1%BA%BFn-%C4%91%E1%BA%A1t-269711174/"
                 target="_blank">
@@ -77,10 +75,7 @@ height="25" /></span>
         </div>
         <div align='center'>
          <a style="text-decoration:none" href="https://dat94-03.github.io/cv.tiendatdev/" target="_blank">
-                <img src="/assets/cv-logo.png" alt="myCV" />
-            </a>
-            <a style="text-decoration:none" href="https://www.instagram.com/dat_9403/" target="_blank">
-                <img src="/assets/instagram.png" alt="email" />
+                <img src="/assets/medium.png" alt="myCV" />
             </a>
             <a style="text-decoration:none" href="mailto:tiendat942003@gmail.com" target="_blank">
                 <img src="/assets/gmail.png" alt="email" />
