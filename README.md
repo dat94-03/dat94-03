@@ -82,8 +82,8 @@ height="30" /></span>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dat94-03&repo=Snake-Game&theme=merko" />
 </a>
- <a href="https://github.com/dat94-03/CS221-Course-Notebook">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dat94-03&repo=CS221-Course-Notebook&theme=blue-green" />
+ <a href="https://github.com/dat94-03/Business_News_QA_Chatbot">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dat94-03&repo=Business_News_QA_Chatbot&theme=blue-green" />
 </a>
 
 </div>
